@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./annotationisint00gurlgoog_0012.png"; bbox 0 0 3534 4584; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 608 157 1472 269">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 608 157 1472 269">
+     <span class='ocr_line' id='line_1_1' title="bbox 608 157 1472 269; baseline 0.012 -12"><span class='ocrx_word' id='word_1_1' title='bbox 608 157 752 257; x_wconf 40' lang='lat' dir='ltr'>L&amp;</span> <span class='ocrx_word' id='word_1_2' title='bbox 852 161 1472 269; x_wconf 52' lang='lat'>§.5455</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1228 1421 2316 2345">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1228 1421 2316 2345">
+     <span class='ocr_line' id='line_1_2' title="bbox 1228 1421 2316 2345; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1228 1421 2316 2345; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1156 2533 2201 3101">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1156 2533 2201 3101">
+     <span class='ocr_line' id='line_1_3' title="bbox 1156 2533 2201 2661; baseline 0.005 -4"><span class='ocrx_word' id='word_1_4' title='bbox 1156 2533 2201 2661; x_wconf 42' lang='lat' dir='ltr'>HARWQRD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1160 2753 2201 2881; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 1160 2753 2201 2881; x_wconf 71' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1156 2973 2201 3101; baseline 0 -4"><span class='ocrx_word' id='word_1_6' title='bbox 1156 2973 1540 3097; x_wconf 67' lang='lat' dir='ltr'>Lffl</span> <span class='ocrx_word' id='word_1_7' title='bbox 1596 2973 2201 3101; x_wconf 58' lang='lat' dir='ltr'>RARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2273 4173 3117 4557">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2273 4173 3117 4557">
+     <span class='ocr_line' id='line_1_6' title="bbox 2273 4173 3117 4557; baseline 0 -239"><span class='ocrx_word' id='word_1_8' title='bbox 2273 4173 2285 4557; x_wconf 44' lang='grc' dir='ltr'>κ</span> <span class='ocrx_word' id='word_1_9' title='bbox 2412 4279 2613 4330; x_wconf 56' lang='lat' dir='ltr'>thfflzffl</span> <span class='ocrx_word' id='word_1_10' title='bbox 2636 4279 2687 4330; x_wconf 56' lang='lat' dir='ltr'>tay</span> <span class='ocrx_word' id='word_1_11' title='bbox 2704 4220 3117 4361; x_wconf 60' lang='lat' dir='ltr'>GOOgIC</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
